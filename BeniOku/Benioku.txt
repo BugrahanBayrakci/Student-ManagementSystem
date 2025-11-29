@@ -1,0 +1,36 @@
+https://www.apachefriends.org/tr/index.html
+1.Bu adresten xampp kuruyoruz.
+2.C:\xampp\htdocs bu klasörün içerisine php dosyalarımı ve diğerlerini ekliyoruz.
+3.Xampp açıp Apache Start diyoruz.
+3.Tarayıcımıza gelip http://localhost/connection.php 
+4.öğrenci için örnek giriş 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+5.Sql serverda giriş için sql server authention kullanılması gerekmektedir bu yüzden https://www.youtube.com/watch?v=-UY0fHckkGc bu videoda nasıl kullanılabileceği gösteriliyor.
+veritabanına erişim için kullanıcı id sa
+şifre bjk232rt
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ $serverName = "DESKTOP-HLBI80J\SQLEXPRESS"; bu kısım kişisel bilgisayarınız adı ile değiştirilmesi gerekmektedir.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+öğrenci bilgi sistemine giriş için örnek hesap
+
+Öğrenci için giriş
+
+kullanıcı adi: ogrenci1
+şifre: sifre123 
+                   
+Ogetim Üyesi için giriş
+
+kullanıcı adi: ogretim1
+şifre: sifre789
+
+6.yonetici için giriş
+
+kullanıcı adi: yonetici1
+şifre: admin123 
+
+
+
+video linkim https://drive.google.com/file/d/1M-l2sf67ZHUF70I9s_bjZjjIAetbeGpb/view?usp=sharing
