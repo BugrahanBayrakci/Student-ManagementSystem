@@ -40,7 +40,7 @@ Password: bjk232rt
 
 In your PHP connection file:
 
-$serverName = "DESKTOP-HLBI80J\SQLEXPRESS";
+$serverName = " ";
 
 
 This part must be replaced with your own computer’s name.
